@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-03
 inline: true
-nav: false
 ---
 
-A simple inline announcement.
+Serve as PC of NeurIPS 2020.

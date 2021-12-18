@@ -17,11 +17,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an NLP scientist at AWS AI Labs. My passion lies in doing innovative NLP research and applying them to solve real world problems.
+I am an NLP scientist at [AWS AI Labs](https://www.amazon.science/). My passion lies in doing innovative NLP research and applying them to solve real world problems.
 
 Before joining Amazon, I spent five wonderful years in beautiful San Diego, pursuing my PhD degree under the supervision of [Prof. Jelena Bradic](https://www.jelenabradic.net/). My PhD work focused on robustness of machine learning models and high-dimensional statistics.
 
-I got my bachelor's degree in Mathematics from the Chinese University of Hong Kong.
+I got my bachelor's degree in Mathematics from [the Chinese University of Hong Kong](https://www.math.cuhk.edu.hk/).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
